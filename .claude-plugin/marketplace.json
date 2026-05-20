@@ -1,0 +1,14 @@
+{
+  "name": "narrative-ink-skills",
+  "owner": {
+    "name": "Scott Vandehey"
+  },
+  "description": "Agent skills for the Ink interactive-fiction language (inkle/ink).",
+  "plugins": [
+    {
+      "name": "narrative-ink",
+      "source": "./plugins/narrative-ink",
+      "description": "Syntax reference, a formatter, and testing conventions for Ink."
+    }
+  ]
+}

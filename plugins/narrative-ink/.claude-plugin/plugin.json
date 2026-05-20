@@ -1,0 +1,12 @@
+{
+  "name": "narrative-ink",
+  "description": "Syntax reference, a formatter, and testing conventions for the Ink interactive-fiction language (inkle/ink). Skills auto-activate when editing .ink files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Scott Vandehey"
+  },
+  "homepage": "https://github.com/spaceninja/narrative-ink-skills",
+  "repository": "https://github.com/spaceninja/narrative-ink-skills",
+  "license": "MIT",
+  "keywords": ["ink", "inkle", "interactive-fiction", "narrative", "agent-skills"]
+}
