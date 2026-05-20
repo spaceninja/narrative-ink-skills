@@ -1,5 +1,5 @@
 ---
-name: syntax
+name: ink-syntax
 description: Provides syntax reference and authoring guidance for the Ink scripting language (inkle/ink). Use when writing, editing, or reviewing .ink files, when asked about Ink syntax, knots, stitches, choices, diverts, variables, lists, or any Ink language feature.
 ---
 

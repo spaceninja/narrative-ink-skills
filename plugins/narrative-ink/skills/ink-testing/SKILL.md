@@ -1,5 +1,5 @@
 ---
-name: testing
+name: ink-testing
 description: Conventions for testing an Ink interactive fiction game with inkjs and vitest — how to write testable Ink code, when and how to write unit and integration tests, and what test helpers to set up. Use when writing or modifying tests, adding test coverage, or when a gameplay interaction warrants a new test.
 ---
 

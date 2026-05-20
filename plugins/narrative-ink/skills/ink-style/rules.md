@@ -1,6 +1,6 @@
 # Ink Style Rules
 
-The complete rule reference for the [style](SKILL.md) skill.
+The complete rule reference for the [ink-style](SKILL.md) skill.
 
 ## Guiding principle
 

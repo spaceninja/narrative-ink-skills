@@ -1,5 +1,5 @@
 ---
-name: style
+name: ink-style
 description: Applies an opinionated set of Ink code formatting conventions to .ink files or ```ink code blocks in markdown. A Prettier-style formatter — whitespace/structure only, no semantic changes. Use when the user asks to format, clean up, or standardize Ink code style, or when editing Ink samples in docs.
 ---
 
@@ -12,7 +12,7 @@ The full rule reference lives in [rules.md](rules.md). The formatter implementat
 ## When to invoke
 
 - User asks to "format", "clean up", "prettify", or "standardize" Ink code
-- User invokes `/narrative-ink:style` or similar
+- User invokes `/narrative-ink:ink-style` or similar
 - Editing Ink code samples in `.md` files where consistency matters
 - Reviewing a PR that touches multiple Ink blocks with inconsistent style
 
